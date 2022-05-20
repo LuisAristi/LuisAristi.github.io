@@ -1,0 +1,32 @@
+.calc-button{
+flex: 1;
+width: 100px;
+height: 100px;
+margin: 3px;
+}
+.double-button{
+    flex: 2;
+    margin: 3px;
+}
+.triple-button{
+    flex: 3;
+    margin: 3px;
+}
+.screen{
+    color: white;
+    font-size: 40px;
+    font-family: "Courier New", Courier, monospace;
+    text-align: right;
+    padding: 20px 5px;
+}
+.calc{
+    width: 400px;
+    height: fit-content;
+    width: fit-content;
+    
+}
+.row{
+    display: flex;
+    margin: auto;
+    margin-bottom: 0.5%;
+}

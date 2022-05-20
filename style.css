@@ -37,6 +37,7 @@
   }
   p{
       color: #ddd;
+      text-align: justify;
   }
   div{
       display: block;
