@@ -18,6 +18,7 @@ margin: 3px;
     font-family: "Courier New", Courier, monospace;
     text-align: right;
     padding: 20px 5px;
+    height: 35px;
 }
 .calc{
     width: 400px;
